@@ -1,3 +1,3 @@
 # CCC-Demo
 <b>
-# Aouther (Tarun Saxena)
+# Author (Tarun Saxena)
